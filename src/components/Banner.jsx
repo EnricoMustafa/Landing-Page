@@ -3,7 +3,7 @@ import logo from '../assets/Logo.png'
 import HomemCampo from '../assets/HomemCampo.png'
 const Banner = () => {
   return (
-    <section className='max-w-7xl mx-auto border-b-2'>
+    <section className='max-w-8/12 mx-auto border-b-2'>
         <div className='flex flex-col items-center my-20'>
             <img src={logo} width={600} alt="Logo Green Life"/>
             <h2 className='text-lg tracking-tight'>Construa seu sonho e tenha uma Green Life</h2>
